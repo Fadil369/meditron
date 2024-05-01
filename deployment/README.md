@@ -162,12 +162,12 @@ npm run dev
 
 You can access the UI at `http://localhost:5173/`:
 
-<img width=50% src="./../figures/ui-example.png" alt="BetterChatGPT UI Demo" title="BetterChatGPT UI Demo">
+![BetterChatGPT UI Demo](./../figures/ui-example.png)
 
 First, update the API to be the one provided by FastChat's OpenAI API: `http://localhost:8000/v1/chat/completions`.
 
-<img width=50% src="./../figures/api.png" alt="update api hostname" title="update api hostname">
+![update api hostname](./../figures/api.png)
 
 Next, select the proper models to start interaction:
 
-<img width=50% src="./../figures/model.png" alt="select model" title="select model">
+![select model](./../figures/model.png)
